@@ -1,0 +1,20 @@
+{
+  "name": "webpack-course",
+  "version": "1.0.0",
+  "description": "This is a repository made to practice with Webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseBohopo/Webpack-Course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoseBohopo/Webpack-Course/issues"
+  },
+  "homepage": "https://github.com/JoseBohopo/Webpack-Course#readme"
+}
